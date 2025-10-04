@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Our generated files
+encodings.pkl
+attendance.csv
